@@ -1,0 +1,4 @@
+*.o
+*.d
+playhello
+build

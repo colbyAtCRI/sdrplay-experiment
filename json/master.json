@@ -1,0 +1,23 @@
+{
+ "IF-kHz" : 0,
+ "antenna" : "A",
+ "bandwidth-kHz" : 1536,
+ "biasT" : "OFF",
+ "center-frequency-MHz" : 5,
+ "correction" : 
+ {
+  "DC" : "ON",
+  "IQ" : "ON",
+  "PPM" : 0
+ },
+ "debug" : false,
+ "frames" : 100,
+ "gain-reduction" : 
+ {
+  "IF" : 20,
+  "LNA" : 0
+ },
+ "sample-rate-MHz" : 2.048,
+ "serial-number" : "1708050E10",
+ "sync-out" : "NC"
+}

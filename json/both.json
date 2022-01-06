@@ -1,0 +1,51 @@
+[
+
+{
+ "frames" : 10000,
+ "IF-kHz" : 0,
+ "antenna" : "A",
+ "bandwidth-kHz" : 1536,
+ "biasT" : "OFF",
+ "center-frequency-MHz" : 15.0,
+ "correction" :
+ {
+  "DC" : "ON",
+  "IQ" : "ON",
+  "PPM" : 0.0
+ },
+ "debug" : false,
+ "gain-reduction" : 
+ {
+  "IF"  : 20,
+  "LNA" : 0
+ },
+ "sample-rate-MHz" : 2.048,
+ "serial-number" : "1708050E10",
+ "sync-out" : "NC"
+},
+
+
+{
+ "frames" : 10000,
+ "IF-kHz" : 0,
+ "antenna" : "A",
+ "bandwidth-kHz" : 1536,
+ "biasT" : "OFF",
+ "center-frequency-MHz" : 15.0,
+ "correction" :
+ {
+  "DC" : "ON",
+  "IQ" : "ON",
+  "PPM" : 0.0
+ },
+ "debug" : false,
+ "gain-reduction" : 
+ { 
+   "IF"  : 20,
+   "LNA" : 0
+ },
+ "sample-rate-MHz" : 2.048,
+ "serial-number" : "1708051110",
+ "sync-out" : "NC"
+}
+]
