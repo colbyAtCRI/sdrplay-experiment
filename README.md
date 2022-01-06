@@ -1,13 +1,13 @@
 # sdrplay-experiment
-The purpose of this software is to collect simultanious IQ data on one or more SDRPlay radios.
+The purpose of this software is to collect simultaneous IQ data on one or more SDRPlay radios.
 
 # requirements
 
 - version 2.13 of the SDRPlay API for Linux.
 - boost
 - gnuplot-iostream (For quick data plotting) 
-- Linux (Ubuntu recomended).
-- An understanding of poorly done software and general computer savy.
+- Linux (Ubuntu recommended).
+- An understanding of poorly done software and general computer savvy.
 
 To build use a shell and enter the commands 
 
